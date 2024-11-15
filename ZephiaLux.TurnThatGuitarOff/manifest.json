@@ -1,0 +1,11 @@
+{
+	"Id": "ZephiaLux.TurnThatGuitarOff",
+	"AssemblyPath": "ZephiaLux.TurnThatGuitarOff.dll",
+	"Metadata": {
+		"Name": "TurnThatGuitarOff",
+		"Author": "ZephiaLux",
+		"Version": "1.0.0",
+		"Description": "Completely disables guitar sounds, to prevent lag",
+		"Homepage": "https://github.com/Zephia-Sero/TurnThatGuitarOff"
+	}
+}
